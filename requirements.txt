@@ -1,0 +1,5 @@
+Flask
+requests
+python-dotenv
+Flask-Cors
+gunicorn # Gunicorn - это WSGI-сервер, необходимый для продакшена
